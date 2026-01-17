@@ -30,23 +30,6 @@ A modern **real-time video calling and chat web application** that allows users 
 - ⏳ Unlimited call duration  
 - 🔗 Share room code via social platforms  
 - 🎨 Clean & responsive UI  
-
----
-
-## 📸 Screenshots
-
-### Home Page
-*(Add screenshot)*
-
-### Incoming Call
-*(Add screenshot)*
-
-### In Call
-*(Add screenshot)*
-
-### Chat
-*(Add screenshot)*
-
 ---
 
 ## 🛠️ Tech Stack
