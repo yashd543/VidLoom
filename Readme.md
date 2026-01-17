@@ -17,16 +17,6 @@ A modern **real-time video calling and chat web application** that allows users 
 
 ---
 
-## ☕ Support Me
-
-If you like this project, consider supporting:
-
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="41" width="174"/>
-</a>
-
----
-
 ## ✨ Features
 
 - 📞 One-to-one video calling  
