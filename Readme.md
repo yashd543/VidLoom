@@ -12,8 +12,7 @@ A modern **real-time video calling and chat web application** that allows users 
 
 ## 🔗 Project Links
 
-- **Live App:** https://your-app-link.vercel.app  
-- **Demo Video:** https://youtube.com/your-demo-link  
+- **Live App:** https://your-app-link.vercel.app
 - **GitHub Repo:** https://github.com/yashd543/your-repo-name
 
 ---
